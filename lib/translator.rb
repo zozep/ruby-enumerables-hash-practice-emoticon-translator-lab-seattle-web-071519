@@ -1,6 +1,5 @@
 # require modules here
 require 'yaml'
-require 'pry'
 
 =begin 
 returns a hash
